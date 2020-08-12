@@ -1,6 +1,8 @@
 <h1 align="center">Launchstore - Launchbase</h1>
 
-<img src="./public/Launchstore.gif" align="center">
+<div align="center">
+    <img src="./public/Launchstore.gif">
+</div>
 
 ---
 
