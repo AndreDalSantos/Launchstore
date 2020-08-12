@@ -37,4 +37,4 @@ A aplicação **Launchstore** consiste em um sistema onde usuários podem cadast
 
 ### Observações
  - Criar um banco de dados no Postgres conforme código do arquivo 'Database.sql'
- - No arquivo 'config/db.js' estão as configurações usadas neste projeto.
+ - No arquivo 'config/db.js' estão as configurações do banco de dados usado neste projeto.
