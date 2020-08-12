@@ -23,7 +23,7 @@ A aplicação **Launchstore** consiste em um sistema onde usuários podem cadast
 
 ```bash
     # clonar o projeto do repositório no github
-    $ git clone https://github.com/AndreDalSantos/Launchstore
+    $ git clone https://github.com/AndreDalSantos/Launchstore.git
 
     # Acessar o diretório da aplicação
     $ cd Launchstore
